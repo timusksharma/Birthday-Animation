@@ -4,6 +4,7 @@
 #include<graphics.h>
 #include<process.h>
 #include<stdlib.h>
+
 //-------------------------------------------------------------------
 //Graphics initializing
 void load()
