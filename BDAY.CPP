@@ -6,7 +6,7 @@
 #include<stdlib.h>
 
 //-------------------------------------------------------------------
-//Graphics initializing
+//instalizing Graphics
 void load()
 {int gd=DETECT,gm;
 initgraph(&gd,&gm,"c://turboc3//bgi");
